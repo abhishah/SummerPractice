@@ -11,7 +11,7 @@ import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 public class List extends ListActivity {
-	String classes[]={"Adder","splash","Textplay","Email","Camera","Data","GFX","GFXSurface"};
+	String classes[]={"Adder","splash","Textplay","Email","Camera","Data","GFX","GFXSurface","Soundpool","Slidding","Tabs","SimpleBrowser","ViewFlip","ExternalData","InternalData","SQLiteExample","Accelerate"};
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
